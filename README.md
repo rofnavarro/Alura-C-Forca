@@ -4,7 +4,7 @@ Curso da Alura de linguagem C.
 
 ***
 
-## Jogo da forca
+## Jogo da Forca
 
 Descubra a palavra secreta (nome de uma fruta) antes que seja enforcado!
 
